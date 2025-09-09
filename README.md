@@ -10,11 +10,6 @@
 This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
 Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
 
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/lucky-lilhare-projects/v0-ratings-platform-frontend](https://vercel.com/pritiranjan-patras-projects/v0-ratings-platform-frontend)**
 
 ## Build your app
 
@@ -28,4 +23,5 @@ Continue building your app on:
 2. Deploy your chats from the v0 interface
 3. Changes are automatically pushed to this repository
 4. Vercel deploys the latest version from this repository
+
 
