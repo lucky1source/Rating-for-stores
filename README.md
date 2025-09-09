@@ -1,0 +1,1 @@
+# Rating-for-stores
